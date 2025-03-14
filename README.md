@@ -1,15 +1,6 @@
 # MAMMARY TISSUE - BODY SIZE
 ## FUNCTIONAL GENOMIC (BIOL 6850/5850)
 
-# Group Members
-1. Mikailie Caulder
-2. Aubrey Wright
-3. Lexie Leggett
-4. Melika Ghasemi Shiran
-5. Prince Mensah Ansah
-6. Thais Ribeiro
-7. Yagya Adhikari
-
 # Group Members & Roles
 
 | Group Member             |Email| Project Role |
