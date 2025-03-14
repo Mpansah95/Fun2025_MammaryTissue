@@ -10,12 +10,18 @@
 6. Thais Ribeiro
 7. Yagya Adhikari
 
-# Group Members Roles
+# Group Members & Roles
 
-| Left  | Center | Right |
-|:------|:------:|------:|
-| A     | B      | C     |
-| D     | E      | F     |
+| Group Member             |Email| Project Role |
+|:-----------------|:-----------------|-----------------:|
+| Mikailie Caulder |mjc0096@auburn.edu|                  |
+| Aubrey Wright|adw0080@auburn.edu|                  |
+| Lexie Leggett|aal0046@auburn.edu|                  |
+| Melika Ghasemi Shiran|mzg0146@auburn.edu|                  |
+|  Prince Mensah Ansah| pma0020@auburn.edu                 |                  |
+| Thais Ribeiro da Silva|thr0012@auburn.edu|                  |
+|Yagya Adhikari|yza0026@auburn.edu|                  |
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
