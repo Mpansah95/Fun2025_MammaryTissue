@@ -1,0 +1,23 @@
+producer_class	xtools.gsea.GseaPreranked
+producer_timestamp	1744289375119
+param	rpt_label	IIS_Mammary_Analysis2
+param	rnd_seed	timestamp
+param	set_min	15
+param	zip_report	false
+param	create_svgs	false
+param	scoring_scheme	weighted
+param	rnk	/Users/aubreywright/Desktop/Coding/Functional Genomics/Final Project/DGErank_significant.rnk
+param	norm	meandiv
+param	out	/Users/aubreywright/Desktop/Coding/Functional Genomics/Final Project
+param	mode	Abs_max_of_probes
+param	include_only_symbols	true
+param	help	false
+param	set_max	500
+param	gmx	/Users/aubreywright/Desktop/IIS_PATHWAY_GENE_LIST.gmt
+param	make_sets	true
+param	plot_top_x	20
+param	gui	false
+param	nperm	1000
+param	collapse	No_Collapse
+
+file	/Users/aubreywright/Desktop/Coding/Functional Genomics/Final Project/IIS_Mammary_Analysis2.GseaPreranked.1744289375119/index.html
