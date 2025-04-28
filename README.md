@@ -1,7 +1,7 @@
 # MAMMARY TISSUE - BODY SIZE
 ## FUNCTIONAL GENOMIC (BIOL 6850/5850)
 
-# Group Members & Roles
+# Group Members & Contribution
 
 | Group Member             |Email| Project Contribution |
 |:-----------------|:-----------------|-----------------:|
