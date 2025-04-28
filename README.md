@@ -3,15 +3,15 @@
 
 # Group Members & Roles
 
-| Group Member             |Email| Project Role |
+| Group Member             |Email| Project Contribution |
 |:-----------------|:-----------------|-----------------:|
-| Mikailie Caulder |mjc0096@auburn.edu|                  |
-| Aubrey Wright|adw0080@auburn.edu|                  |
-| Lexie Leggett|aal0046@auburn.edu|                  |
-| Melika Ghasemi Shiran|mzg0146@auburn.edu|                  |
-|  Prince Mensah Ansah| pma0020@auburn.edu                 |                  |
-| Thais Ribeiro da Silva|thr0012@auburn.edu|                  |
-|Yagya Adhikari|yza0026@auburn.edu|                  |
+| Mikailie Caulder |mjc0096@auburn.edu|  Abstract Writing and conducted WCGNA, Led the manuscript and citation formatting|
+| Aubrey Wright|adw0080@auburn.edu| GSEA and advanced Cytoscape analysis|
+| Lexie Leggett|aal0046@auburn.edu| Sample selection, data cleaning, and mapping. Conducted a literature review on CMT and aided in writing the differential analysis results
+| Melika Ghasemi Shiran|mzg0146@auburn.edu| GO Enrichment Analysis|
+|  Prince Mensah Ansah| pma0020@auburn.edu| Differential expression with limma and organization of the GitHub|
+| Thais Ribeiro da Silva|thr0012@auburn.edu| Partial Correlation and Information Theory Analysis (PCIT) with the different expressed genes to examine co-expression networks, DESeq differential expression analysis, and variant calling|
+|Yagya Adhikari|yza0026@auburn.edu| Introduction and formatting|
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -20,6 +20,7 @@
 The contributions of the Insulin and Insulin-like Signaling (IIS) molecular network in dog body size evolution: contrasting gene expression and function of protein-coding changes
 
 # Background
+Dogs represent a unique study model for body size evolution because of their extensive phenotypic variation among different breeds. The Insulin and Insulin-like Signaling (IIS) pathway could significantly mediate size differences among dog breeds because this pathway is a well-established regulator of growth, metabolism, and longevity in mammals (Kenyon, C. J., 2010). Apart from bone or muscle, which are directly involved in development, the peripheral tissue, like mammary tissue, can also reveal differences in regulatory hormonal pathways, which may provide an idea about overall body size (Rowzee et al., 2008). Moreover, mammary tissue undergoes significant changes during development, pregnancy, lactation, and involution, making it a rich source of information about gene expression and cellular processes (Hennighausen and Robinson, 2005). The polymorphisms in the Insulin-like Growth Factor (IGF1), IGF1 Receptor, and associated binding proteins may contribute to size differences among dog breeds (Rimbault et al., 2013). Differential gene expression and protein-coding variations in mammary tissues, particularly during developmental and reproductive stages, may significantly contribute to local growth signals and systemic metabolic regulation.
 
 # Hypotheses
 1. The gene expression of the growth hormone/insulin-like signaling molecular network will be significantly different between large and small dog breeds
