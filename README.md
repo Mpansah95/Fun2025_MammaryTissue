@@ -11,7 +11,7 @@
 | Melika Ghasemi Shiran|mzg0146@auburn.edu| GO Enrichment Analysis|
 |  Prince Mensah Ansah| pma0020@auburn.edu| Differential expression with limma and organization of the GitHub|
 | Thais Ribeiro da Silva|thr0012@auburn.edu| Partial Correlation and Information Theory Analysis (PCIT) with the different expressed genes to examine co-expression networks, DESeq differential expression analysis, and variant calling|
-|Yagya Adhikari|yza0026@auburn.edu| Introduction and formatting|
+|Yagya Adhikari|yza0026@auburn.edu| Writing Introduction and Formatting|
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
