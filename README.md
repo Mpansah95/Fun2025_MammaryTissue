@@ -28,7 +28,7 @@ The contributions of the Insulin and Insulin-like Signaling (IIS) molecular netw
 # Bioinformatics Plan
 
 ## Source of Data
-This project will analyze publicly available RNAseq data in the [NCBI SRA database](https://www.ncbi.nlm.nih.gov/sra/?term=). The data that qualifies for our inclusion criteria will be downloaded onto the [Alabama Supercomputer](https://hpcdocs.asc.edu/hpc-tools-categories/sequence-alignment for bioinformatic analysis. Because we are considering differential gene expression analysis in dogs, RNAseq data that we sequenced from the [mammary gland](https://en.wikipedia.org/wiki/mammary-gland) will be used. The following data listed below met our criteria stated above. The Accession ID in [NCBI](https://www.ncbi.nlm.nih.gov/) [BioProject database](https://www.ncbi.nlm.nih.gov/bioproject/) has been listed below
+This project will analyze publicly available RNAseq data in the [NCBI SRA database](https://www.ncbi.nlm.nih.gov/sra/?term=). The data that qualifies for our inclusion criteria will be downloaded onto the [Alabama Supercomputer](https://hpcdocs.asc.edu/hpc-tools-categories/sequence-alignment for bioinformatic analysis. Because we are considering differential gene expression analysis in dogs, RNAseq data that we sequenced from the [mammary gland](https://en.wikipedia.org/wiki/mammary-gland) will be used. The following data listed below met our criteria stated above. The Accession ID in [NCBI](https://www.ncbi.nlm.nih.gov/) [SRA database](https://www.ncbi.nlm.nih.gov/sra/) has been listed has been included in the [here](https://github.com/Mpansah95/Fun2025_MammaryTissue/blob/main/data/README.md)
 
 
 ## Data Download
@@ -58,16 +58,16 @@ Count matrices will be generated using [StringTie (v.2.2.1)](https://ccb.jhu.edu
 Using the StringTie counts matrix, DESeq2 (v1.46.0) (Love et al. 2014) will make an R object of the manually defined groups (treatments) and counts. Low-coverage genes will be filtered, and counts will be adjusted by normalization factors. An estimate of dispersion will be done. The DESeq2 output will be a new counts table (.csv), showing gene regulation
 
 ### Gene Enrichment and Molecular Network Analysis
-
+Gene enrichment and network analysis were done with GSEA, Cytocape, PCIT, and WGCNA. See [results](https://github.com/Mpansah95/Fun2025_MammaryTissue/blob/main/data/README.md) for more details
 
 ### Bioinformatic Workflow
 ![Bioinformatic Workflow](https://github.com/Mpansah95/Fun2025_MammaryTissue/blob/main/images/Bioinformatics%20pipeline.png)
 
 
-## Links to Source Data, Scripts, and Results
+# Links to Source Data, Scripts, and Results
 Use the following links to access information on the data and information about the scripts
 
-[Scripts]()
-[Source of Data]()
-[Results]()
+[Scripts](https://github.com/Mpansah95/Fun2025_MammaryTissue/tree/main/scripts)
+[Source of Data](https://github.com/Mpansah95/Fun2025_MammaryTissue/blob/main/data/README.md)
+[Results](https://github.com/Mpansah95/Fun2025_MammaryTissue/blob/main/data/README.md)
 
