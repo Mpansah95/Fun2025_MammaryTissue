@@ -67,7 +67,7 @@ Gene enrichment and network analysis were done with GSEA, Cytocape, PCIT, and WG
 # Links to Source Data, Scripts, and Results
 Use the following links to access information on the data and information about the scripts
 
-[Scripts](https://github.com/Mpansah95/Fun2025_MammaryTissue/tree/main/scripts) ----------|
-[Source of Data](https://github.com/Mpansah95/Fun2025_MammaryTissue/blob/main/data/README.md)----------|
-[Results](https://github.com/Mpansah95/Fun2025_MammaryTissue/blob/main/data/README.md)----------|
+[Scripts](https://github.com/Mpansah95/Fun2025_MammaryTissue/tree/main/scripts) <<<<<<<
+[Source of Data](https://github.com/Mpansah95/Fun2025_MammaryTissue/blob/main/data/README.md)<<<<<<<
+[Results](https://github.com/Mpansah95/Fun2025_MammaryTissue/blob/main/data/README.md)<<<<<<<
 
