@@ -16,9 +16,16 @@ The results below show the alignment statistics for the various samples used in 
 
 The results show a heatmap, sample-to-distance, Volcano Plot, and MA plot for the differential gene expression analysis using DESeq2
 
+### HeatMap of Differentially Expressed Genes
 ![Heatmap](https://github.com/Mpansah95/Fun2025_MammaryTissue/blob/main/images/heatmap.png)
+
+### Sample to Sample Distance Heatmap
 ![Sample-to-Sample-Dist](https://github.com/Mpansah95/Fun2025_MammaryTissue/blob/main/images/sample-to-sample-distance.png)
+
+### Volcano of Differentially Expressed Genes
 ![Volcano plots](https://github.com/Mpansah95/Fun2025_MammaryTissue/blob/main/images/DESeq2_Volcano.png)
+
+### MA plot of Differentially Expressed Genes
 ![MA plot](https://github.com/Mpansah95/Fun2025_MammaryTissue/blob/main/images/plotMA.png)
 
 
