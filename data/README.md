@@ -29,13 +29,16 @@ The results show a heatmap, sample-to-distance, Volcano Plot, and MA plot for th
 ![MA plot](https://github.com/Mpansah95/Fun2025_MammaryTissue/blob/main/images/plotMA.png)
 
 ### Comparing DEGs by DESeq2 and Limma
-The Upset plot below compares the number of differentially expressed genes in the two statistical models and shows the ![overlaps] (https://github.com/Mpansah95/Fun2025_MammaryTissue/blob/main/images/Limma%20vs%20DESeq2.png). 
+The Upset plot below compares the number of differentially expressed genes in the two statistical models and shows the overlaps.
+![Upset Plot](https://github.com/Mpansah95/Fun2025_MammaryTissue/blob/main/images/Limma%20vs%20DESeq2.png) 
 
 ### PCA plots samples
-The plot below shows how the samples cluster and the ![variance](https://github.com/Mpansah95/Fun2025_MammaryTissue/blob/main/images/PCA.png)
+The plot below shows how the samples cluster and the variance
+![variance](https://github.com/Mpansah95/Fun2025_MammaryTissue/blob/main/images/PCA.png)
 
 ### Gene set enrichment plots
-The graph below shows the genes that are enriched in the ![IIS pathway](https://github.com/Mpansah95/Fun2025_MammaryTissue/blob/main/data/GSEA%20results/IIS_Mammary_Analysis2.GseaPreranked.1744289375119/enplot_IIS_PATHWAY_65.png)
+The graph below shows the genes that are enriched in the IIS pathway.
+![IIS pathway](https://github.com/Mpansah95/Fun2025_MammaryTissue/blob/main/data/GSEA%20results/IIS_Mammary_Analysis2.GseaPreranked.1744289375119/enplot_IIS_PATHWAY_65.png)
 
 
 # Comprehensive Results
